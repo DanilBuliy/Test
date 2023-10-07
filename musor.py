@@ -8,7 +8,7 @@ print(tuple(my_tuple))
 
 string1 = " "
 def convert(n):
-    #res = [i for i in range(n+1)]
+    #res = [i for i in range(n+1)]efef,
     return "".join(map(str,range(n+1)))
 
 print(convert(10))
